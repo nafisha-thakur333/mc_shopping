@@ -1,0 +1,1 @@
+export const LOGO_URL = "http://clipart-library.com/images_k/shopping-transparent-background/shopping-transparent-background-7.png"
